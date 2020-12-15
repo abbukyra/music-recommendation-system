@@ -15,3 +15,6 @@ Tracey Kong, Donald Chen, Kyra Alyssa Abbu
 #### [?] If you are interested in running the genre classifiers (decision tree and multinomial logistic regression), you can go to music-recommendation-system/data_setup/ 
 1. LabelingAndFiltering.ipynb = Decision Tree
 2. Multinomial Logistic Regression.ipynb = Multinomial
+
+## Presentation Slides
+https://docs.google.com/presentation/d/1Pcto_mbZG3BP8lSn-p_763Ra9xM09wFHHqwWDKoFGxk/edit?usp=sharing
